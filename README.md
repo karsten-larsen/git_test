@@ -1,0 +1,1 @@
+This is Karsten Larsen's first git project
